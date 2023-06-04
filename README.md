@@ -1,7 +1,5 @@
-###  Hello, I'm Valter Junior 👋
- - 📖 Computer Science Student
-- 💻  Learning Languages and Frameworks
-<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=91b302&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Valter+Junior;a+computer+science+student;Learning+Languages+and+Frameworks+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/KoTzJr">
@@ -11,7 +9,7 @@
 
 ##
 
-<h1 align = "center"> Languages<h/1>
+<h1 align = "center" color = "91b302"> Languages<h/1>
 <div style="display: inline_block"><br>
   <div align = "center">
   <img img align="center" alt="Kotz-CPlus" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
@@ -30,3 +28,7 @@
    <img align="center" alt="Kotz-Csharp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
+
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KoTzJr&bg_color=0a0f0b&color=68b587&line=293409&point=91b302&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
