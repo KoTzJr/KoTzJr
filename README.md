@@ -2,12 +2,19 @@
  - 📖 Estudante de Ciência da Computação
 - 💻  Aprendendo Linguagens e Frameworks
 <br>
+
+##
+
 <div align="center">
   <a href="https://github.com/KoTzJr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KoTzJr&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoTzJr&layout=compact&langs_count=7&theme=merko"/>
 </div>
-<br>
+
+
+##
+##
+
 <h1 align = "center"> Languages<h/1>
 <div style="display: inline_block"><br>
   <div align = "center">
@@ -18,6 +25,3 @@
 </div>
 
 ##
-
-
-![Snake animation](https://github.com/KotzJr/KotzJr/blob/output/github-contribution-grid-snake.svg)
