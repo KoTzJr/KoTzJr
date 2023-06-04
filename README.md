@@ -1,6 +1,6 @@
-### Olá Eu sou Valter Junior 👋
- - 📖 Estudante de Ciência da Computação
-- 💻  Aprendendo Linguagens e Frameworks
+###  Hello, I'm Valter Jr. 👋
+ - 📖 Computer Science Student
+- 💻  Learning Languages and Frameworks
 <br>
 
 ##
