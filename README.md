@@ -18,6 +18,3 @@
 </div>
 
 ##
-
-
-![Snake animation](https://github.com/KotzJr/KotzJr/blob/output/github-contribution-grid-snake.svg)
