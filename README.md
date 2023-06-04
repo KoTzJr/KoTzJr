@@ -1,4 +1,4 @@
-###  Hello, I'm Valter Junior. 👋
+###  Hello, I'm Valter Junior 👋
  - 📖 Computer Science Student
 - 💻  Learning Languages and Frameworks
 <br>
