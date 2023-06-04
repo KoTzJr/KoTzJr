@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá Eu sou Valter Junior 👋
 
-<!--
-**KoTzJr/KoTzJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<div align="center">
+  <a href="https://github.com/KoTzJr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KoTzJr&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoTzJr&layout=compact&langs_count=7&theme=merko"/>
+</div>
+<br>
+<div style="display: inline_block"><br>
+  <div align = "center">
+  <img img align="center" alt="Kotz-CPlus" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
+  <img img align="center" alt="Kotz-C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Kotz-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kotz-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+<br>
+<br>
