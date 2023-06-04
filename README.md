@@ -24,8 +24,8 @@
 <h3 align = "center"> IDE<h/3>
 <div style="display: inline_block"><br>
   <div align = "center">
-   <img align="center" alt="Kotz-Csharp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-   <img align="center" alt="Kotz-Csharp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+   <img align="center" alt="Kotz-visualstudio" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+   <img align="center" alt="Kotz-vscode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
 
