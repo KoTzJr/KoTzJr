@@ -20,8 +20,9 @@
   <img align="center" alt="Kotz-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+##
 
-<br>
+
 <h3 align = "center"> IDE<h/3>
 <div style="display: inline_block"><br>
   <div align = "center">
