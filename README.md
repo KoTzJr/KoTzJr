@@ -8,6 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoTzJr&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <br>
+<h1 align = "center"> Languages<h/1>
 <div style="display: inline_block"><br>
   <div align = "center">
   <img img align="center" alt="Kotz-CPlus" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
@@ -15,5 +16,8 @@
   <img align="center" alt="Kotz-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kotz-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-<br>
-<br>
+
+##
+
+
+![Snake animation](https://github.com/KotzJr/KotzJr/blob/output/github-contribution-grid-snake.svg)
