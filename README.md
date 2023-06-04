@@ -1,5 +1,6 @@
 ### Olá Eu sou Valter Junior 👋
-
+ - 📖 Estudante de Ciência da Computação
+- 💻  Aprendendo Linguagens e Frameworks
 <br>
 <div align="center">
   <a href="https://github.com/KoTzJr">
