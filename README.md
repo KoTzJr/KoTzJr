@@ -9,13 +9,12 @@
 
 ##
 
-<h1 align = "center" color = "91b302"> Languages<h/1>
+<h1 align = "center" color = "91b302"> Programming Language<h/1>
 <div style="display: inline_block"><br>
   <div align = "center">
   <img img align="center" alt="Kotz-CPlus" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
-  <img img align="center" alt="Kotz-C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img img align="center" alt="Kotz-Dart" height="90" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />   
   <img align="center" alt="Kotz-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kotz-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ##
@@ -24,8 +23,10 @@
 <h3 align = "center"> IDE<h/3>
 <div style="display: inline_block"><br>
   <div align = "center">
-   <img align="center" alt="Kotz-visualstudio" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-   <img align="center" alt="Kotz-vscode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+   <img align="center" alt="Kotz-visualstudio" height="50" width="40"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+   <img align="center" alt="Kotz-vscode"       height="50" width="40"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img align="center"alt= "Kotz-clion"      height= "50" width="40"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />
+          
 </div>
 
 
